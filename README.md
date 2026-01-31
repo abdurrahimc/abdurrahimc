@@ -17,14 +17,10 @@ This GitHub profile serves as a **learning portfolio**, where I share:
 - Solved assignments
 - Course-related and personal robotics projects
 
-📫 Contact: 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdurrahimc165@gmail.com)
-
+📫 Contact: abdurrahimc165@gmail.com
 
 ---
 
 ### 🛠️ Languages & Tools
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![ROS2](https://img.shields.io/badge/ROS2-gray?logo=ros)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+C • Python • ROS 2 • Linux • Git • Arduino • Raspberry Pi  
+📍 Robotics topics: SLAM • Autonomous Navigation • Mobile Robots

@@ -1,26 +1,12 @@
-## Hi 👋 I'm Abdurrahim Çalışkan
+## Hi 👋 Hello, I’m Abdurrahim Çalışkan, a Mechatronics Engineering student who is passionate about developing robotic systems to solve real-world problems.
 
-🎓 Mechatronics Engineering student  
-🤖 Aspiring robotics engineer with a strong focus on autonomous systems  
+While improving myself in this field, I realized that my university curriculum does not include many robotics-focused courses. However, robotics is what I truly enjoy, so I actively work on developing my skills through online resources and courses from well-known universities such as Harvard, Stanford, and the University of Michigan.
 
-My main goal is to develop myself in the field of robotics. I actively study
-beyond my university curriculum by taking online courses from institutions
-such as **University of Michigan, MIT, and Stanford**.
+If you are interested in robotics and reading these lines, I encourage you to explore my repositories. You may find useful materials here, including my notes, assignments, and projects derived from courses offered by top universities. I hope they can be helpful for your own learning journey.
 
-- 🚗 Currently working on **autonomous mobile robots**
-- 🧭 Interested in **SLAM, navigation, and autonomous decision-making**
-- 📘 Studying robotics fundamentals through academic and online courses
-- 🧠 Exploring the integration of **AI with robotic systems**
-
-This GitHub profile serves as a **learning portfolio**, where I share:
-- My personal notes and explanations
-- Solved assignments
-- Course-related and personal robotics projects
 
 📫 Contact: abdurrahimc165@gmail.com
 
 ---
 
-### 🛠️ Languages & Tools
-C • Python • ROS 2 • Linux • Git • Arduino • Raspberry Pi  
 📍 Robotics topics: SLAM • Autonomous Navigation • Mobile Robots
